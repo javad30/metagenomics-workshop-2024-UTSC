@@ -1,14 +1,11 @@
 # .readthedocs.yaml
 version: 2
 
-build:
-  os: ubuntu-22.04
-  tools:
-    - sphinx
-
+# Sphinx configuration
 sphinx:
   configuration: docs/conf.py
 
+# Python environment
 python:
   version: 3.12
   install:
