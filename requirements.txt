@@ -1,0 +1,6 @@
+sphinx>=7.0
+numpy
+pandas
+matplotlib
+scikit-bio
+
