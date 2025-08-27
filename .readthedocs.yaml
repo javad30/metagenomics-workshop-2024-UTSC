@@ -8,4 +8,5 @@ python:
   install:
     - method: pip
       path: "."
-#    - requirements: "requirements.txt"  # Uncomment if you have this file
+#    - requirements: "requirements.txt"  # optional, uncomment if you have this file
+
