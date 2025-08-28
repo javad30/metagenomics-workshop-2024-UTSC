@@ -3,7 +3,6 @@
 ===============================
 Metagenomics Workshop 2024 UTSC
 ===============================
-
 .. image:: _static/workshop_banner.jpg
    :alt: Metagenomics Workshop Banner
    :align: center
