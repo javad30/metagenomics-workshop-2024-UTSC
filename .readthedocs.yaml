@@ -9,6 +9,5 @@ sphinx:
   configuration: docs/source/conf.py
 
 python:
-  version: "3.8"
   requirements:
     - docs/requirements.txt
