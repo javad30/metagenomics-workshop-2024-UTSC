@@ -8,11 +8,6 @@ Metagenomics Workshop 2024 UTSC
    :align: center
    :width: 90%
 
-
-
-
-
-
 Welcome to the **Genome-Centric Metagenomics Workshop**!  
 
 This workshop will teach you how to obtain provisional whole genomes of individual populations from a mixed microbial community using metagenomics. The workshop is divided into **three parts**:
@@ -30,7 +25,7 @@ Part III
 Participants will learn how to extract taxonomic information, functional annotations, and pathway information for each binned genome.
 
 Workshop Topic Highlights
-------------------------
+========================
 - Metagenome reads quality check and quality control  
 - Assemble quality controlled reads into contigs  
 - Annotate assembled contigs  
@@ -38,11 +33,15 @@ Workshop Topic Highlights
 - Bin contigs into provisional genome bins  
 - Extract taxonomic, functional, and pathway annotations for each binned genome
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Installation
+
+   install/index
 
 .. toctree::
    :maxdepth: 2
 
-   install/index
    quickstart
    reference
    usage
