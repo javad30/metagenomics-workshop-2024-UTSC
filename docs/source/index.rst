@@ -6,7 +6,12 @@ Metagenomics Workshop 2024 UTSC
 .. image:: _static/workshop_banner.jpg
    :alt: Metagenomics Workshop Banner
    :align: center
-   :width: 80%
+   :width: 90%
+
+
+
+
+
 
 Welcome to the **Genome-Centric Metagenomics Workshop**!  
 
@@ -32,3 +37,13 @@ Workshop Topic Highlights
 - Map quality controlled reads onto contigs  
 - Bin contigs into provisional genome bins  
 - Extract taxonomic, functional, and pathway annotations for each binned genome
+
+
+.. toctree::
+   :maxdepth: 2
+
+   install/index
+   quickstart
+   reference
+   usage
+   faq

@@ -26,3 +26,4 @@ autodoc_mock_imports = [
     "scikit-bio",
     "biom-format",
 ]
+
