@@ -19,6 +19,6 @@ Welcome! Use the left sidebar to navigate.
    :maxdepth: 1
    :caption: RESOURCES
 
-   reference
+   resources
    usage
    faq
