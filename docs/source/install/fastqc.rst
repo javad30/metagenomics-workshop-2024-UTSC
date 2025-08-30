@@ -1,23 +1,37 @@
-.. _wsl:
 
-==========
-WSL
-==========
+Installing FastQC on Linux
+==========================
 
-**What is Windows Subsystem for Linux (WSL)?**
+Installing **FastQC** on a Linux system is simple and only takes a few steps.
 
-The Windows Subsystem for Linux (WSL) allows you to run a Linux file system, Linux command-line tools, and GUI apps directly on Windows, alongside your traditional desktop apps.
+Update your system
+------------------
+First, update your package list to make sure you have the latest software references:
 
-**Prerequisites**
+.. code-block:: bash
 
-- Windows 10 or Windows 11
+   sudo apt update
 
-**Installation**
+Install FastQC
+--------------
+With your package list updated, install FastQC:
 
-1. Open PowerShell or Command Prompt as Administrator (right-click → Run as administrator).  
-2. Enter: wsl --install
-3. restart your your terminal
-4. Open the command prompt again and type wsl and hit Enter. 
+.. code-block:: bash
 
+   sudo apt install fastqc
 
-WSL stores your Windows drives in the /mnt folder, with the name of the drive as a subfolder. 
+This command will download and install FastQC on your system.
+
+Verify the installation
+-----------------------
+To confirm that FastQC has been installed correctly, run:
+
+.. code-block:: bash
+
+   fastqc --help
+
+If successful, this will display the help information and version number.
+
+----
+
+After completing these steps, FastQC will be installed and ready for use on your Linux system, setting the stage for high-quality sequence data analysis.
