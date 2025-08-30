@@ -17,7 +17,6 @@ You will learn how to install several metagenomics software including:
 - eggNOG-mapper (Gene annotation)  
 - PhyloPhlAn3 (Strain-level analysis)
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Software Installation
@@ -28,12 +27,10 @@ You will learn how to install several metagenomics software including:
    megahit
    metabat2
    checkm
-   Prokka
+   prokka
    concoct
    prodigal
    htseq
    samtools
    eggnog
    phylophlan
-  
-
