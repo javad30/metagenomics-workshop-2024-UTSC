@@ -10,15 +10,17 @@ Welcome! Use the left sidebar to navigate.
    install/index
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: CODE & MATERIALS
+
+   codes_and_materials/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: RESOURCES
 
    reference
    usage
    faq
 
-.. toctree::
-   :maxdepth: 1
-   :hidden:
 
-   quickstart

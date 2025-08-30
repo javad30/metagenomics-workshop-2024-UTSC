@@ -20,8 +20,8 @@ html_theme = "sphinx_rtd_theme"
 
 html_theme_options = {
     "collapse_navigation": False,   # keep sections expanded
-    "navigation_depth": 2,          # show subpages like fastqc, bowtie2, etc.
-    "titles_only": True,            # cleaner sidebar (no duplicate headings)
+    "navigation_depth": 4,          # show subpages like fastqc, bowtie2, etc.
+    "titles_only": False,            # cleaner sidebar (no duplicate headings)
 }
 
 # -- Workaround for heavy imports on RTD -------------------------------------
