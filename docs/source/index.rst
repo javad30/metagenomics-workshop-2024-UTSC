@@ -33,15 +33,19 @@ Workshop Topic Highlights
 - Bin contigs into provisional genome bins  
 - Extract taxonomic, functional, and pathway annotations for each binned genome
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: INSTALLATION
-..
-..    install/index
-..    install/fastqc
-..    install/bowtie2
-..    ...
+.. toctree::
+   :maxdepth: 2
 
+   install/index
+   install/fastqc
+   install/bowtie2
+   install/samtools
+   install/megahit
+   install/metabat2
+   install/checkm
+   install/prodigal
+   install/prokka
+   install/htseq
 
 .. toctree::
    :maxdepth: 2
