@@ -12,9 +12,11 @@ You will learn how to install several metagenomics software including:
 - Bowtie2 (Genome assembly)
 - MEGAHIT (Metagenomics assembly)  
 - CONCOCT (Binning)  
-- Prodigal or MetaGeneMark (Gene prediction)  
+- Prodigal or MetaGeneMark (Gene prediction)
+- Prokka (Prokaryotic genome annotation)
 - eggNOG-mapper (Gene annotation)  
 - PhyloPhlAn3 (Strain-level analysis)
+
 
 .. toctree::
    :maxdepth: 2
@@ -24,8 +26,14 @@ You will learn how to install several metagenomics software including:
    fastqc
    bowtie2
    megahit
+   metabat2
+   checkm
+   Prokka
    concoct
    prodigal
+   htseq
+   samtools
    eggnog
    phylophlan
+  
 
