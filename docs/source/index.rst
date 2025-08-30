@@ -38,15 +38,6 @@ Workshop Topic Highlights
    :caption: Software Installation
 
    install/index
-   install/fastqc
-   install/bowtie2
-   install/samtools
-   install/megahit
-   install/metabat2
-   install/checkm
-   install/prodigal
-   install/prokka
-   install/htseq
 
 .. toctree::
    :maxdepth: 2
