@@ -20,5 +20,6 @@ Welcome! Use the left sidebar to navigate.
    :caption: RESOURCES
 
    resources
-   usage
-   faq
+   highlights
+   contact
+
