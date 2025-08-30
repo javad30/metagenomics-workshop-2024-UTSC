@@ -21,8 +21,10 @@ You will learn how to install several metagenomics software including:
 
    wsl
    fastqc
+   bowtie2
    megahit
    concoct
    prodigal
    eggnog
    phylophlan
+
