@@ -18,6 +18,12 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 html_theme = "sphinx_rtd_theme"
 
+html_theme_options = {
+    "collapse_navigation": False,   # keep sections expanded
+    "navigation_depth": 2,          # show subpages like fastqc, bowtie2, etc.
+    "titles_only": True,            # cleaner sidebar (no duplicate headings)
+}
+
 # -- Workaround for heavy imports on RTD -------------------------------------
 # These packages are mocked so autodoc won't try to import them on RTD
 autodoc_mock_imports = [
@@ -26,4 +32,3 @@ autodoc_mock_imports = [
     "scikit-bio",
     "biom-format",
 ]
-

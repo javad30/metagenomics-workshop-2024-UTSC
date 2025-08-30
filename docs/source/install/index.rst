@@ -1,19 +1,23 @@
-.. _install:
-
-================
 Install
-================
+=======
 
 This section covers installation instructions for the tools required in the workshop.
 
-You will learn how to install several metagenomics software including:
+You will learn how to install several metagenomics packages including:
 
-- fastqc (checking the quality)
-- Bowtie2 (Genome assembly)
-- MEGAHIT (Metagenomics assembly)
-- CONCOCT (Binning)
-- Prodigal (Gene prediction)
-- Prokka (Prokaryotic genome annotation)
-- eggNOG-mapper (Gene annotation)
-- PhyloPhlAn3 (Strain-level analysis)
+.. toctree::
+   :maxdepth: 1
 
+   wsl
+   fastqc
+   bowtie2
+   megahit
+   concoct
+   prodigal
+   prokka
+   eggnog
+   phylophlan
+   checkm
+   htseq
+   metabat2
+   samtools
