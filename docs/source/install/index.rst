@@ -9,6 +9,7 @@ This section covers installation instructions for the tools required in the work
 You will learn how to install several metagenomics software including:
 
 - fastqc (checking the quality)  
+- Bowtie2 (Genome assembly)
 - MEGAHIT (Metagenomics assembly)  
 - CONCOCT (Binning)  
 - Prodigal or MetaGeneMark (Gene prediction)  
