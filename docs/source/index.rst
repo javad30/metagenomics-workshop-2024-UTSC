@@ -8,7 +8,7 @@ Metagenomics Workshop 2024 UTSC
    :align: center
    :width: 90%
 
-Welcome to the **Genome-Centric Metagenomics Workshop**!  
+Welcome to the **Genome-Centric Metagenomics Workshop**!
 
 This workshop will teach you how to obtain provisional whole genomes of individual populations from a mixed microbial community using metagenomics. The workshop is divided into **three parts**:
 
@@ -26,22 +26,37 @@ Participants will learn how to extract taxonomic information, functional annotat
 
 Workshop Topic Highlights
 ========================
-- Metagenome reads quality check and quality control  
-- Assemble quality controlled reads into contigs  
-- Annotate assembled contigs  
-- Map quality controlled reads onto contigs  
-- Bin contigs into provisional genome bins  
+- Metagenome reads quality check and quality control
+- Assemble quality controlled reads into contigs
+- Annotate assembled contigs
+- Map quality controlled reads onto contigs
+- Bin contigs into provisional genome bins
 - Extract taxonomic, functional, and pathway annotations for each binned genome
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Software Installation
+   :maxdepth: 1
+   :caption: Install (all pages)
+   :titlesonly:
 
    install/index
+   install/wsl
+   install/fastqc
+   install/bowtie2
+   install/samtools
+   install/megahit
+   install/metabat2
+   install/checkm
+   install/prodigal
+   install/prokka
+   install/htseq
+   install/eggnog
+   install/phylophlan
+   install/concoct
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Workshop Guide
+   :titlesonly:
 
    quickstart
    reference

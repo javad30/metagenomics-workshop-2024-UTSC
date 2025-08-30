@@ -8,29 +8,12 @@ This section covers installation instructions for the tools required in the work
 
 You will learn how to install several metagenomics software including:
 
-- fastqc (checking the quality)  
+- fastqc (checking the quality)
 - Bowtie2 (Genome assembly)
-- MEGAHIT (Metagenomics assembly)  
-- CONCOCT (Binning)  
+- MEGAHIT (Metagenomics assembly)
+- CONCOCT (Binning)
 - Prodigal (Gene prediction)
 - Prokka (Prokaryotic genome annotation)
-- eggNOG-mapper (Gene annotation)  
+- eggNOG-mapper (Gene annotation)
 - PhyloPhlAn3 (Strain-level analysis)
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Tools
-
-   wsl
-   fastqc
-   bowtie2
-   megahit
-   metabat2
-   checkm
-   prokka
-   concoct
-   prodigal
-   htseq
-   samtools
-   eggnog
-   phylophlan
