@@ -5,6 +5,9 @@ project = "Metagenomics Workshop 2024 UTSC"
 author = "Javad Sadeghi"
 release = "0.1"
 
+# Set the root document for Sphinx
+root_doc = "index"
+
 # -- General configuration ---------------------------------------------------
 extensions = [
     "sphinx.ext.autodoc",    # Automatically document docstrings
@@ -21,7 +24,7 @@ html_theme = "sphinx_rtd_theme"
 html_theme_options = {
     "collapse_navigation": False,   # keep sections expanded
     "navigation_depth": 4,          # show subpages like fastqc, bowtie2, etc.
-    "titles_only": False,            # cleaner sidebar (no duplicate headings)
+    "titles_only": False,           # cleaner sidebar (no duplicate headings)
 }
 
 # -- Workaround for heavy imports on RTD -------------------------------------

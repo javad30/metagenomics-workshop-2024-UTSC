@@ -10,7 +10,7 @@ Welcome! Use the left sidebar to navigate.
    install/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: CODE & MATERIALS
 
    codes_and_materials/index
@@ -22,5 +22,3 @@ Welcome! Use the left sidebar to navigate.
    reference
    usage
    faq
-
-
