@@ -18,8 +18,8 @@ You will learn how to install several metagenomics software including:
 - PhyloPhlAn3 (Strain-level analysis)
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Software Installation
+   :maxdepth: 1
+   :caption: Tools
 
    wsl
    fastqc
