@@ -7,7 +7,7 @@ For inquiries or collaborations, please reach out:
 Javad Sadeghi
 
 .. image:: _static/my_pic.jpg
-   :alt: Workshop Poster
+   :alt: My picture
    :width: 200px
    :align: left
 
