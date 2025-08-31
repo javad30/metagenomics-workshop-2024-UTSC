@@ -6,6 +6,13 @@ For inquiries or collaborations, please reach out:
 **Name:**  
 Javad Sadeghi
 
+.. image:: _static/my_pic.jpg
+   :alt: Workshop Poster
+   :width: 200px
+   :align: left
+
+
+
 **Email:**  
 javad.sadeghi@utoronto.ca
 
