@@ -1,5 +1,5 @@
-Metagenomics Workshop 2024 – UTSC
-=================================
+Metagenomics Workshop 2024 UTSC
+===============================
 
 Welcome! Use the left sidebar to navigate.
 
