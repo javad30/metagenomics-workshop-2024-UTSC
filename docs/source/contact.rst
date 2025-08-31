@@ -6,11 +6,10 @@ For inquiries or collaborations, please reach out:
 **Name:**  
 Javad Sadeghi
 
-.. image:: _static/my_pic.jpg
+.. image:: images/my_pic.jpg
    :alt: My picture
    :width: 200px
    :align: left
-
 
 
 **Email:**  
